@@ -1,0 +1,22 @@
+{
+  "jsonrpc": "2.0",
+  "method": "service/request",
+  "params": {
+    "target": { "address": "22cd91b5de1fdc50" },
+    "sender": { "address": "anonymous" },
+    "service": "Technical review",
+    "title": "Review this architecture decision",
+    "requestSummary": "The requester needs a decision brief on a proposed architecture change.",
+    "expectedOutcome": "Decision brief with risks and next steps",
+    "constraints": ["No database migration", "Answer within 48h"],
+    "openQuestions": [
+      "Which failure modes matter most?",
+      "What should be verified before implementation?"
+    ],
+    "preparedByAgent": {
+      "name": "Requester agent",
+      "contextSummary": "The request was structured from a conversation before being sent."
+    }
+  },
+  "id": "mission_request_001"
+}

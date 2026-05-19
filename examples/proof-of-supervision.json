@@ -1,0 +1,15 @@
+{
+  "type": "mission.delivery.certificate",
+  "missionId": "mis_01",
+  "expertAddress": "22cd91b5de1fdc50",
+  "deliverable": {
+    "sha256": "5f6d4f5d4d1c2e5a6f2d9c3b8f3c1e0f9a7b6c5d4e3f2a1b0c9d8e7f6a5b4c3d",
+    "mediaType": "text/markdown"
+  },
+  "supervision": {
+    "status": "reviewed",
+    "expertEdits": 12,
+    "auditDurationSeconds": 840,
+    "finalDecision": "approved"
+  }
+}

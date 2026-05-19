@@ -1,0 +1,16 @@
+{
+  "type": "mission.thread.reply",
+  "missionId": "mis_01",
+  "status": "ready-for-review",
+  "preparedByAgent": {
+    "summary": "The agent prepared a decision brief and unresolved risks.",
+    "artifacts": ["architecture-review.md"]
+  },
+  "humanReviewRequired": true,
+  "reviewChecklist": [
+    "Check factual assumptions",
+    "Validate recommendation",
+    "Remove unsupported claims",
+    "Approve delivery wording"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "mission.inbox.item",
+  "id": "msg_01",
+  "status": "new",
+  "target": { "address": "22cd91b5de1fdc50" },
+  "sender": { "address": "anonymous" },
+  "receivedAt": "2026-05-19T09:00:00Z",
+  "service": "Technical review",
+  "title": "Review this architecture decision",
+  "requestSummary": "The requester needs a bounded architecture review before implementation.",
+  "availableActions": ["ack", "reply", "decline", "prepare_delivery"]
+}
