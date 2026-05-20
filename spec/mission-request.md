@@ -51,4 +51,4 @@ See [examples/mission-request.json](../examples/mission-request.json) for the fu
 
 - [Local Agent Inbox](./local-agent-inbox.md) — how the receiving expert reads the request.
 - [Human-Supervised Delivery](./human-supervised-delivery.md) — what happens after the expert accepts.
-- [Proof of Supervision](./proof-of-supervision.md) — how the final delivery records expert review.
+- [Proof of Production](./proof-of-production.md) — how the final delivery records expert review.

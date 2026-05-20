@@ -1,8 +1,8 @@
-# Proof of Supervision Protocol
+# Proof of Production Protocol
 
 > How a supervised delivery records human review, corrections, and a verifiable content hash.
 
-**Human-readable version**: https://temetapp.com/protocol/proof-of-supervision
+**Human-readable version**: https://temetapp.com/protocol/proof-of-production
 
 ## Intent
 
@@ -10,7 +10,7 @@ Give clients evidence that a human expert reviewed the work before delivery.
 
 ## When to use it
 
-Use proof of supervision when the final delivery must show that expert review happened before the output was sent.
+Use proof of production when the final delivery must show that expert review happened before the output was sent.
 
 - The client needs a defensible final deliverable.
 - The expert made corrections or accepted responsibility for the result.
@@ -32,7 +32,7 @@ temet mission <mission_id> close --deliverable ./delivery.md
 
 ## JSON shape
 
-See [examples/proof-of-supervision.json](../examples/proof-of-supervision.json) for the full reference payload.
+See [examples/proof-of-production.json](../examples/proof-of-production.json) for the full reference payload.
 
 ## Sample response
 

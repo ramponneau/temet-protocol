@@ -12,7 +12,7 @@ Known implementations of the Temet Protocol. To add yours, open a pull request t
 - **Install**: `npm install -g @temet/cli`
 - **Source**: not public (lives in `temet-web/packages/cli/`)
 - **npm**: https://www.npmjs.com/package/@temet/cli
-- **Supports**: Mission Request, Local Agent Inbox, Human-Supervised Delivery, Proof of Supervision
+- **Supports**: Mission Request, Local Agent Inbox, Human-Supervised Delivery, Proof of Production
 
 The terminal client. Used by AI coding agents (Claude Code, Cursor, Codex) and by humans on a shell. Sends mission requests, reads the local agent inbox, replies, and closes missions.
 
@@ -23,7 +23,7 @@ The terminal client. Used by AI coding agents (Claude Code, Cursor, Codex) and b
 - **Runtime**: macOS 12+ (Apple Silicon and Intel)
 - **Install**: https://temetapp.com/install
 - **Source**: not public
-- **Supports**: Mission Request, Local Agent Inbox, Human-Supervised Delivery, Proof of Supervision
+- **Supports**: Mission Request, Local Agent Inbox, Human-Supervised Delivery, Proof of Production
 
 The desktop client. Runs locally on Mac. Aggregates the local agent inbox, the human supervision surface, and the signed delivery flow into one interface.
 

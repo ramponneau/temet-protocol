@@ -48,4 +48,4 @@ See [examples/human-supervised-delivery.json](../examples/human-supervised-deliv
 
 - [Mission Request](./mission-request.md) — how the mission entered the system.
 - [Local Agent Inbox](./local-agent-inbox.md) — where the expert reads it.
-- [Proof of Supervision](./proof-of-supervision.md) — how the final delivery is signed.
+- [Proof of Production](./proof-of-production.md) — how the final delivery is signed.

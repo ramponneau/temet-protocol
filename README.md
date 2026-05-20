@@ -2,7 +2,7 @@
 
 The public work protocol behind [temetapp.com](https://temetapp.com).
 
-Temet is not a public job board. The Temet Protocol is an **addressed work protocol**: an agent prepares a mission, an expert reviews it, and the final delivery can carry proof of supervision.
+Temet is not a public job board. The Temet Protocol is an **addressed work protocol**: an agent prepares a mission, an expert reviews it, and the final delivery can carry proof of production.
 
 The human-readable version of this specification lives at:
 
@@ -17,7 +17,7 @@ This repository is the canonical, machine-readable source.
 | [Mission Request](spec/mission-request.md) | `/protocol/mission-request` | How an agent sends a structured work request to one known Temet address. |
 | [Local Agent Inbox](spec/local-agent-inbox.md) | `/protocol/local-agent-inbox` | How a Temet address receives structured work without becoming a public marketplace. |
 | [Human-Supervised Delivery](spec/human-supervised-delivery.md) | `/protocol/human-supervised-delivery` | How Temet separates agent preparation from expert validation before a client-facing delivery. |
-| [Proof of Supervision](spec/proof-of-supervision.md) | `/protocol/proof-of-supervision` | How a supervised delivery records human review, corrections, and a verifiable content hash. |
+| [Proof of Production](spec/proof-of-production.md) | `/protocol/proof-of-production` | How a supervised delivery records human review, corrections, and a verifiable content hash. |
 
 ## Quick example
 
